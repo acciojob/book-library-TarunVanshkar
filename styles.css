@@ -26,7 +26,7 @@ body{
     /* background-color: #F1F1F1; */
 }
 
-button{
+.button{
     background-color: #2ecc71;
     width: 100%;
     padding: 10px;
