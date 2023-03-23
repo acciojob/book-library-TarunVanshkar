@@ -1,1 +1,48 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #ffffff;
+    margin: 10px 40px;
+}
+
+.book-library{
+    border: 3px solid #E6E7E7;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.heading{
+    border: none;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.book{
+    border: none;
+    
+    background-color: #f8f8f8;
+    padding: 20px;
+    /* background-color: #F1F1F1; */
+}
+
+button{
+    background-color: #2ecc71;
+    width: 100%;
+    padding: 10px;
+    border: none;
+}
+
+.author{
+    color: #777777;
+    margin: 0px;
+}
+
+h2{
+    margin: 0px;
+}
+
+img{
+    position: relative;
+    left: 39vw;
+}
